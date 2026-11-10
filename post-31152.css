@@ -8,7 +8,7 @@
 }
 
 .elementor-31152 .elementor-element.elementor-element-93c28dd>.elementor-background-overlay {
-	background-image: url("Fotos/2fotoscel.png");
+	background-image: url("");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1645,7 +1645,7 @@
 
 	.elementor-31152 .elementor-element.elementor-element-93c28dd:not(.elementor-motion-effects-element-type-background),
 	.elementor-31152 .elementor-element.elementor-element-93c28dd>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-		background-image: url("Fotos/jcm.jpeg");
+		background-image: url("Fotos/jcmcel.jpg");
 		background-size: cover;
 	}
 
